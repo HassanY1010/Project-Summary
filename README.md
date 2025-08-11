@@ -14,9 +14,9 @@
 -Technologies:
 
 - Front-End: React.js, Next.js 15, TypeScript, Tailwind CSS, Lucide React
-- 
+
 - Back-End: PHP, Laravel, MySQL, Composer
-- 
+
 - Others: Axios (API calls), ESLint (code quality), npm / yarn (package management)
 
 To contact via WhatsApp: +967776461892
